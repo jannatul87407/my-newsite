@@ -1,0 +1,91 @@
+ #donar-part {
+     background-image: url(images/donation12.png);
+     background-repeat: no-repeat;
+     background-size: cover;
+     height: 100vh;
+
+ }
+
+ * {
+     margin: 0;
+     padding: 0;
+ }
+
+ .donar-contents {
+     padding: 50px 10px;
+     text-align: center;
+     color: white;
+     font-size: 2.3rem;
+
+ }
+
+ .color-code {
+     color: white;
+     background-color: brown;
+     padding: 15px 15px 15px 15px;
+     font-size: large;
+ }
+
+ .donation-own {
+     text-align: center;
+ }
+
+ .circle-part {
+     text-align: center;
+     padding: 15px 15px 15px 15px;
+
+ }
+
+ .button-one {
+     border: 10px;
+     font-size: larger;
+     margin-right: 10px;
+ }
+
+ .button-two {
+     border: 2px solid red;
+     font-size: 1.5rem;
+     padding: 10px 10px 10px 10px;
+     background-color: rgb(241, 154, 154);
+     color: red;
+     margin-right: 10px;
+ }
+
+ .button-three {
+     border: 10px;
+     font-size: larger;
+     margin-right: 10px;
+ }
+
+ .button-four {
+     border: 10px;
+     font-size: larger;
+     margin-right: 10px;
+ }
+
+ .button-five {
+     border: 10px;
+     font-size: larger;
+     margin-right: 10px;
+ }
+
+ .border-ratio {
+     text-align: center;
+ }
+
+ .btn {
+
+     left: 50%;
+     right: 50%;
+
+     position: absolute;
+ }
+
+ #bo-b {
+
+     background-color: brown;
+     color: white;
+     border: 2px solid red;
+     padding: 15px 15px 15px 15px;
+     font-size: large;
+ }
