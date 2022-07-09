@@ -89,3 +89,117 @@
      padding: 15px 15px 15px 15px;
      font-size: large;
  }
+
+ .circle-grow {
+     text-align: center;
+ }
+
+ #container-cor {
+     width: 900px;
+     margin: 0 auto;
+ }
+
+ .colm-one,
+ colm-two,
+ colm-three {
+     width: 200px;
+     float: lext;
+     margin: 10px;
+ }
+
+ .side-side {
+     display: flex;
+     margin: 50px;
+     border-right: 150px;
+     border: 10px solid white;
+     box-shadow: 10px 10px 10px white;
+ }
+
+ .side-part {
+     border: 5px solid white;
+     padding-right: 5px;
+     background-color: aquamarine;
+     padding: 60px 60px 60px 60px;
+     background-image: url(icons/food.png);
+     background-repeat: no-repeat;
+
+
+ }
+
+ .selter-part {
+     border: 5px solid white;
+     padding-right: 5px;
+     background-color: aquamarine;
+     padding: 60px 60px 60px 60px;
+     background-image: url(icons/shelter.png);
+     background-repeat: no-repeat;
+
+ }
+
+ .education-part {
+     border: 5px solid white;
+     padding-right: 5px;
+     background-color: aquamarine;
+     padding: 60px 60px 60px 60px;
+     background-image: url(icons/Frame-1.png);
+     background-repeat: no-repeat;
+
+ }
+
+ .celebrety-part {
+     text-align: center;
+ }
+
+ section {
+     display: flex;
+     margin-top: 20px;
+ }
+
+ h1 {
+     text-align: center;
+ }
+
+ p {
+     text-align: center;
+ }
+
+ div {
+     text-align: center;
+     padding: 20px 20px 20px 20px;
+ }
+
+ input(type="email") {
+     border: none;
+     width: 400px;
+     height: 40px;
+
+
+
+ }
+
+ button {
+     position: absolute;
+     top: 0;
+     bottom: 0;
+     right: 0;
+     background-color: brown;
+     color: white;
+     padding: 0 15px;
+
+ }
+
+ footer {
+     text-align: center;
+ }
+
+ footer h1 {
+     color: blue;
+ }
+
+ .foot-part {
+     background-color: black;
+ }
+
+ footer p {
+     color: white;
+ }
